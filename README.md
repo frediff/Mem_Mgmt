@@ -50,5 +50,3 @@ The library provides the following functionalities:
 - Anubhav Dhar (Roll No.: 20CS30004)
 - Aritra Mitra (Roll No.: 20CS30006)
 - Shiladitya De (Roll No.: 20CS30061)
-
-# 
