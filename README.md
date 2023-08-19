@@ -6,7 +6,7 @@
 
 
 
-<p align="justify">This assignment is related to virtual memory management inside the operating system. In general, in many large-scale real-world systems (e.g., database servers), the software does not depend on the OS to manage memory. In general, these software requests (right at the beginning) a chunk of memory using malloc (e.g.,500 MB, 1 GB). Then this software's customized memory management module manages the memory (like memory assignment or freeing allocated memory).</p>
+<p align="justify">This project is related to virtual memory management inside the operating system. In general, in many large-scale real-world systems (e.g., database servers), the software does not depend on the OS to manage memory. In general, these software requests (right at the beginning) a chunk of memory using malloc (e.g.,500 MB, 1 GB). Then this software's customized memory management module manages the memory (like memory assignment or freeing allocated memory).</p>
 
 
 
